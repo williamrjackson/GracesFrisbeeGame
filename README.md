@@ -1,11 +1,10 @@
-# GracesFrisbeeGame
-Dad &amp; Grace Collaboration during self quarantine
+# Grace's Frisbee Game
+Dad &amp; Grace collaboration during self quarantine.
     
-Learning activity during school closure.    
+Game design learning activity during school closure.    
     
 Art/Modeling/Sound: Grace Jackson    
-Game Design: Grace Jackson    
-Gameplay "Tuning": Grace Jackson    
+Game Design and gameplay "tuning": Grace Jackson    
 General Support: Dad    
 
 ![sample](Frisbee.gif)  
