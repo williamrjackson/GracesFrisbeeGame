@@ -8,4 +8,4 @@ Game Design: Grace Jackson
 Gameplay "Tuning": Grace Jackson    
 General Support: Dad    
 
-![sample](frisbee.gif)  
+![sample](Frisbee.gif)  
